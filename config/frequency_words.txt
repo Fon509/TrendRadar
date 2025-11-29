@@ -7,10 +7,13 @@
 
 中美
 中日
+台海
 
 一加
 OPPO
+真我
 小米
+
 Magisk
 KSU
 KernelSU
